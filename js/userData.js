@@ -7,7 +7,7 @@ function userList() {
         var checkVerify = true;
         var verifier = "";
         if (entry.author.split("[").length != 2) {
-            verifier = entry.author;
+            verifier = "";
         } else { 
             verifier = entry.author.split("[")[1].replace("]", "");
         }
