@@ -43,7 +43,7 @@
                         <div id="level-info" style="font-size: 22px">
                             <div id="records-score"></div>
                             <div id="records-id"></div>
-                            <div id="records-pass"></div>
+                            <div id="records-nerf"></div>
                         </div>
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
@@ -347,7 +347,7 @@
             $("#levelqualify").text(entry.percentToQualify);
             $("#records-score").html(`<small>Points when completed : ${getPoint(rank)}</small>`);
             $("#records-id").html(`<small>Level ID : ${entry.id}</small>`);
-            $("#records-pass").html(`<small>Level Password : ${entry.pass}</small>`);
+            $("#records-nerf").html(`<small>Can be nerfed : ${entry.nerf}</small>`);
             $("#inside-level-author").html(final_author);
             $(record_node).empty();
             entry.vids.sort(function(a, b) {
