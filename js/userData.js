@@ -9,7 +9,7 @@ function userList() {
         if (entry.author.split("[").length != 2) {
             verifier = "";
         } else { 
-            verifier = entry.author.split("[")[1].replace("]", "");
+            verifier = "";
         }
         for (var b = 0 ; b < user_data.length ; b++) {
             if (user_data[b].name.toUpperCase() == verifier.toUpperCase()) {
@@ -17,7 +17,7 @@ function userList() {
             }
         }
     
-        var p = roundNumber(getUserPoint(i+1, 100, entry.percentToQualify, "144hz") * 1, 3);
+        var p = roundNumber(getUserPoint(i+1, 101, entry.percentToQualify, "144hz") * 1, 3);
         if (checkVerify == true) {
             for (var b = 0 ; b < user_data.length ; b++) {
                 var user_name = user_data[b].name.toUpperCase(); var data_name = verifier.toUpperCase();
