@@ -10,7 +10,7 @@ const d = {
 			"more": "none",
 			"id": 57367243,
 			"percentToQualify": 129364,
-			"verificationVid": "https://www.youtube.com/watch?v=-qPWcBSUmyI",
+			"verificationVid": "https://www.youtube.com/watch?v=Xjc4rUbUWLI",
 			"key": 0
 		},
 		/*=================================================================================*/
