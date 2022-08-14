@@ -4,7 +4,7 @@ function userList() {
     for (var i = 0; i < list.length; i++) {
         var entry = list[i];
         
-        var checkVerify = false;
+        var checkVerify = true;
         var verifier = "";
         if (entry.author.split("[").length != 2) {
             verifier = entry.author;
