@@ -46,7 +46,11 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "OnlyTrying",
+					"link": "https://www.youtube.com/watch?v=0QCDhzfuAFE",
+					"percent": 64,
+				},
       ],
 			"name": "Blood Cursed",
 			"author": "FJESTXYZ",

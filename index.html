@@ -359,7 +359,7 @@
                     record.link = "https://" + record.link;
                 }
                 if (record.hz == null) {
-                    record.hz = "144hz";
+                    record.hz = "";
                 }
                 $("<div>").addClass('record-entry').html(`<div class='interentry'><a href="${record.link}" target="_blank"><strong>${record.user}</strong> (<em>${record.percent}%</em>) ${record.hz}</div>`).appendTo(record_node)
             }
