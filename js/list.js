@@ -9,6 +9,7 @@ const d = {
 			"author": "icedcave",
 			"more": "none",
 			"id": 57367243,
+			"nerf": "answer here",
 			"percentToQualify": 36,
 			"verificationVid": "https://www.youtube.com/watch?v=Xjc4rUbUWLI",
 			"key": 0
@@ -22,6 +23,7 @@ const d = {
 			"author": "Tablos AF",
 			"more": "none",
 			"id": 37364486,
+			"nerf": "answer here",
 			"percentToQualify": 42,
 			"verificationVid": "https://www.youtube.com/watch?v=GJsfsykt8Ns",
 			"key": 1
@@ -36,9 +38,10 @@ const d = {
 			"author": "sirwig",
 			"more": "none",
 			"id": 75813939,
+			"nerf": "answer here",
 			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=pvHC0ht2_z8",
-			"key": 3
+			"key": 2
 		},
 		/*=================================================================================*/
 		{
@@ -49,9 +52,10 @@ const d = {
 			"author": "FJESTXYZ",
 			"more": "none",
 			"id": 81778059,
+			"nerf": "answer here",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
-			"key": 4
+			"key": 3
 		},
 		/*=================================================================================*/
 
