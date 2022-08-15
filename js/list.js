@@ -41,7 +41,7 @@ const d = {
 			"author": "FJESTXYZ",
 			"more": "none",
 			"id": 82762731,
-			"nerf": "Only up to 48%",
+			"nerf": "No",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
 			"key": 2
