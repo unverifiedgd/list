@@ -29,22 +29,7 @@ const d = {
 			"key": 1
 		},
 		/*=================================================================================*/
-	
-		{
-			"vids": [
-
-      ],
-			"name": "dzhemper",
-			"author": "sirwig",
-			"more": "none",
-			"id": 75813939,
-			"nerf": "No",
-			"percentToQualify": 65,
-			"verificationVid": "https://www.youtube.com/watch?v=pvHC0ht2_z8",
-			"key": 2
-		},
-		/*=================================================================================*/
-		{
+				{
 			"vids": [
 				{
 					"user": "OnlyTrying",
@@ -59,7 +44,35 @@ const d = {
 			"nerf": "No",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
+			"key": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
+			"name": "Nightmares",
+			"author": "Hexagon7",
+			"more": "none",
+			"id": 80484529,
+			"nerf": "No",
+			"percentToQualify": 53,
+			"verificationVid": "https://youtu.be/weBfpfLZ_Us",
 			"key": 3
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
+			"name": "dzhemper",
+			"author": "sirwig",
+			"more": "none",
+			"id": 75813939,
+			"nerf": "No",
+			"percentToQualify": 65,
+			"verificationVid": "https://www.youtube.com/watch?v=pvHC0ht2_z8",
+			"key": 4
 		},
 		/*=================================================================================*/
 
