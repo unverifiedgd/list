@@ -41,7 +41,7 @@ const d = {
 			"author": "FJESTXYZ",
 			"more": "none",
 			"id": 82762731,
-			"nerf": "No",
+			"nerf": "Only up to 48%",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
 			"key": 2
@@ -55,7 +55,7 @@ const d = {
 			"author": "Hexagon7",
 			"more": "none",
 			"id": 80484529,
-			"nerf": "No",
+			"nerf": "Bugfixing only",
 			"percentToQualify": 53,
 			"verificationVid": "https://youtu.be/weBfpfLZ_Us",
 			"key": 3
