@@ -55,7 +55,7 @@ const d = {
 			"name": "Blood Cursed",
 			"author": "FJESTXYZ",
 			"more": "none",
-			"id": 81778059,
+			"id": 82762731,
 			"nerf": "No",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
