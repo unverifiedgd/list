@@ -19,12 +19,26 @@ const d = {
 			"vids": [
 
       ],
+			"name": "Crimson Dagger",
+			"author": "culobdj",
+			"more": "none",
+			"id": 82408026,
+			"nerf": "No",
+			"percentToQualify": 45,
+			"verificationVid": "https://www.youtube.com/watch?v=E98SRnCBIww",
+			"key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
 			"name": "Sinister Silence",
 			"author": "Wahffle and more",
 			"more": "no",
 			"id": 82249742,
 			"nerf": "No",
-			"percentToQualify": 40,
+			"percentToQualify": 48,
 			"verificationVid": "https://www.youtube.com/watch?v=MDutuGulI_8",
 			"key": 1
 		},
@@ -38,7 +52,7 @@ const d = {
 			"more": "none",
 			"id": 37364486,
 			"nerf": "No",
-			"percentToQualify": 42,
+			"percentToQualify": 51,
 			"verificationVid": "https://www.youtube.com/watch?v=GJsfsykt8Ns",
 			"key": 2
 		},
@@ -65,20 +79,6 @@ const d = {
 			"vids": [
 
       ],
-			"name": "Nightmares",
-			"author": "Hexagon7",
-			"more": "none",
-			"id": 80484529,
-			"nerf": "Bugfixing only",
-			"percentToQualify": 53,
-			"verificationVid": "https://youtu.be/weBfpfLZ_Us",
-			"key": 4
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-
-      ],
 			"name": "dzhemper",
 			"author": "sirwig",
 			"more": "none",
@@ -86,6 +86,20 @@ const d = {
 			"nerf": "No",
 			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=pvHC0ht2_z8",
+			"key": 4
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
+			"name": "Nightmares",
+			"author": "Hexagon7",
+			"more": "none",
+			"id": 80484529,
+			"nerf": "Bugfixing only",
+			"percentToQualify": 74,
+			"verificationVid": "https://youtu.be/weBfpfLZ_Us",
 			"key": 5
 		},
 		/*=================================================================================*/
