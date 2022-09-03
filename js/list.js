@@ -19,6 +19,20 @@ const d = {
 			"vids": [
 
       ],
+			"name": "Sinister Silence",
+			"author": "Wahffle and more",
+			"more": "no",
+			"id": 82249742,
+			"nerf": "No",
+			"percentToQualify": 40,
+			"verificationVid": "https://www.youtube.com/watch?v=MDutuGulI_8",
+			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
 			"name": "Darkness is Coming",
 			"author": "Tablos AF",
 			"more": "none",
@@ -26,7 +40,7 @@ const d = {
 			"nerf": "No",
 			"percentToQualify": 42,
 			"verificationVid": "https://www.youtube.com/watch?v=GJsfsykt8Ns",
-			"key": 1
+			"key": 2
 		},
 		/*=================================================================================*/
 				{
@@ -44,7 +58,7 @@ const d = {
 			"nerf": "No",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=X4IhO5QR1Is",
-			"key": 2
+			"key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -58,7 +72,7 @@ const d = {
 			"nerf": "Bugfixing only",
 			"percentToQualify": 53,
 			"verificationVid": "https://youtu.be/weBfpfLZ_Us",
-			"key": 3
+			"key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -72,7 +86,7 @@ const d = {
 			"nerf": "No",
 			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=pvHC0ht2_z8",
-			"key": 4
+			"key": 5
 		},
 		/*=================================================================================*/
 
